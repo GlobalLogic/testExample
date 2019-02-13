@@ -31,7 +31,7 @@ import java.io.IOException;
  * When a build is performed and is complete, the {@link #perform(AbstractBuild, Launcher, BuildListener)}
  * method will be invoked.
  *
- * @author Kohsuke Kawaguchi
+ * @author Kohsuke Kawaguchi giridaramoorthy
  */
 public class TestExamplePublisher extends Recorder {
 
